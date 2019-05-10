@@ -20,3 +20,6 @@ The ESP8266 board is already installed.
 
 # Result 
 ![alt text](https://github.com/TiNredmc/FakeGrayscaleLED/raw/master/ExamplePics/20190508_213748.jpg)
+
+# Flowchart 
+![alt text](https://github.com/TiNredmc/FakeGrayscaleLED/blob/master/ExamplePics/FakeGrayscale.png?raw=true)
