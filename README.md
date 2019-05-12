@@ -23,3 +23,6 @@ The ESP8266 board is already installed.
 
 # Flowchart 
 ![alt text](https://github.com/TiNredmc/FakeGrayscaleLED/blob/master/ExamplePics/FakeGrayscale.png?raw=true)
+
+# PCB
+PCB can be found here : https://oshpark.com/shared_projects/npnrhVJX
