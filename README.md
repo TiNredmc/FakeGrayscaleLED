@@ -6,7 +6,7 @@ Genius way to display the grayscale static 5x5 pixels bitmap on SEIMENS/OSRAM 5x
 Hardware 
 =
 ```
-- SIEMENS / OSRAM 5x5 matrix led display. Mine is SCDV5544. 
+- SIEMENS / OSRAM 5x5 matrix led display. Mine is SCDV5542. 
 - ESP-01S 
 - USB to TTL (for programming) 
 ```
